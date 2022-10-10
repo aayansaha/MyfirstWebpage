@@ -1,0 +1,88 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 50%;
+    margin: auto;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    flex: 1;
+    margin-left: 20px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.firstname {
+    color: gray;
+}
+
+.secondname {
+    color: burlywood;
+}
+
+.qualification {
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.email {
+    color: burlywood;
+}
+
+.phone {
+    color: burlywood;
+}
+
+.company {
+    color: burlywood;
+}
+
+.hr {   
+    border: 1px solid burlywood;
+}
+
+.intro {
+    color: burlywood;
+    font-weight: bolder;
+    font-size: 22px;
+    min-width: 300px;
+    display: block;
+}
+
+.table1 {
+    margin-top: 25px;
+}
+
+.tb-head {
+    font-size: 20px;
+    line-height: 30px;
+    color: burlywood;
+    font-weight: bold;
+}
+
+.tb-head2 {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.table-desc {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+
